@@ -1,0 +1,142 @@
+1. GOOGLE CLASSROOM
+
+NOTES, PPT, ASSIGNMENTS
+
+ASDM: ADVANCED SOFTWARE DESIGNING METHODOLOGY
+
+2. 
+
+100M= 40 (ccee) EXTERNAL +  60  INTERNAL ( 20 [MCQ]  + 40 [CP, ATT. , LAB, ASSIGNMENTS])
+
+QUIZ
+
+3.ASDM
+
+DEVELOPMENT + OPERATIONS 
+
+
+1. SDLC MODELS 
+AGILE METHODOLOGY : JIRA TOOL
+REGISTER : JIRA ATLASSIAN
+
+DESIGN 
+
+DESIGN TOOL : MS VISIO 
+
+             SMART DRAW, EDRAW, LUCIDCHART
+====================================================================================
+
+2.  GIT 
+
+DOWNLOAD SOFTWARE: GIT BASH
+REGISTER : github.com       [ create your github id]
+
+=====================================================================================
+
+3. eclipse + jdk (11)
+
+4. automation build process https://www.jenkins.io/  download jenkins.war
+
+5. Docker 
+
+DOWNLOAD SOFTWARE: docker desktop + WSL PACKAGE FOR LINUX
+
+REGISTER : https://hub.docker.com/  [ create your docker id]
+
+6.  CLOUD COMPUTING [EC2, S3, LAMBDA] , VIRTUALIZATION
+
+REGISTER :AWS
+
+7. TESTING  : [SELENIUM] ECLIPSE,JDK,
+DOWNLOAD SELENIUM WEBDRIVER FILES
+
+
+
+
+
+
+
+
+phases of software design
+
+
+Development
+
+Project SDLC model
+
+Team: Git 
+
+Develop +AGILE JIRA + VCS GIT+ Automation build + Deployment + 
+
+Testing [manual testing + automation testing] + cloud platforms
+
+
+sOFTWARE PROCESS
+
+
+
+sOFTWARE PROCESS MODELS
+
+
+
+REQUIREMENTS GATHERING, ANALYSIS AND SPECIFICATION
+
+
+SRS : SOFTWARE REQUIREMENT SPECIFICATION DOCUMENT : BUSINESS ANALYST
+
+
+
+DESIGN
+
+TRADITIONAL DESIGN: DFD, ERD
+
+OOD: [UML DIAGRAMS]
+
+
+DESIGN DOCUMENT : DD : SOFTWARE ARCHITECT
+
+
+
+
+
+
+
+
+SDLC: SOFTWARE DEVELOPMENT LIFE CYCLE
+
+
+
+SDLC MODELS : SOFTWARE DEVELOPMENT LIFE CYCLE MODELS
+
+SDLC MODELS
+
+1. BUILD AND FIX
+
+2           . CLASSICAL WATERFALL MODEL
+            .ITERATIVE WATERFALL MODEL
+            . V-SHAPED WATERFALL MODEL
+
+3. EVOLUTIONARY DEVELOPMENT
+     ITERATIVE
+     INCREMENTAL
+
+4. PROTOTYPE MODEL
+
+5. SPIRAL MODEL
+
+6. AGILE MODEL
+
+=====================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
